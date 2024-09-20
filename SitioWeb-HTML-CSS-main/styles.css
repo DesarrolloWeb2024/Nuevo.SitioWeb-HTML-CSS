@@ -52,7 +52,7 @@ body {
 
 .container {
     display: flex;
-    background-color: #bbdefb;
+    background-color: background-image: radial-gradient(circle, #f04a23, #f11b45, #e80065, #d10085, #ad00a1, #9400ab, #7203b4, #3b16be, #3114b8, #2711b3, #1a0fad, #050da8);;
     padding: 0px;
     gap: 22px;
 }
